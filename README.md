@@ -1,3 +1,3 @@
 # gitdemo
 git learning
-author- Aparna shaw
+author- Aparna shaw(me)
